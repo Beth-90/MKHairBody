@@ -1,0 +1,17 @@
+div {
+    border: 5px;
+    border-style: double;
+    border-width: 30px;
+    padding: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #407b55;
+}
+
+head {
+    color: rgb(227, 219, 209);
+}
+
+h1 {
+    color: rgb(227, 219, 209);
+}

@@ -1,0 +1,39 @@
+table,
+td,
+th {
+    border: 8px solid #407b55;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border-style: double;
+}
+
+td,
+th {
+    color: #407b55;
+}
+
+td,
+th {
+    padding: 10px;
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(227, 219, 209);
+}
+
+caption {
+    text-align: center;
+    caption-side: top;
+    color: rgb(227, 219, 209);
+}
+
+img {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}

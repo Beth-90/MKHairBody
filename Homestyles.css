@@ -1,0 +1,54 @@
+/*
+    Written by Bethany Morrow
+*/
+body {
+    background-color: rgb(26, 25, 22);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(227, 219, 209);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+
+p {
+    border: 5px;
+    border-style: double;
+    border-width: 30px;
+    padding: 25px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #407b55;
+
+}
+
+nav a {
+    margin-right: 15px;
+    color: #407b55;
+    background-color: rgb(227, 219, 209);
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-size: 17px;
+    border: 2px;
+    border-radius: 25px;
+    border-style: solid;
+
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+aside {
+    text-align: center;
+    background-color: #407b55;
+    border-radius: 10px 10px 20px 20px;
+}
+
+footer {
+    text-align: center;
+    color: rgb(227, 219, 209);
+}
